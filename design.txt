@@ -1,0 +1,10 @@
+all white
+
+Title: name
+
+    [photo]
+
+group things by div
+offset position a little bit to separate
+no lines visible
+Noto Serif font (maybe)
