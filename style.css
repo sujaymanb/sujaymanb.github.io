@@ -62,6 +62,11 @@ footer {
   margin: auto;
 }
 
+#img_dlg {
+  width: 100%;
+  max-width: 55em;
+}
+
 .poster {
   max-width: 600px;
   width: 100%;
@@ -97,12 +102,15 @@ footer {
 }
 
 
-@media screen and (min-width:500px) and (max-width:1200px) {
+@media screen and (min-width:200px) and (max-width:1200px) {
   .content {
-  padding: 16px;
-  width: 100%; 
-  margin: auto;
-  }
+    padding: 16px;
+    width: 100%; 
+    margin: auto;
+    }
 
+  .content section {
+    width: 100%;
+  }
 
 }
